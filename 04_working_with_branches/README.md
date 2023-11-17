@@ -7,5 +7,5 @@ You probably already heard the term _branch_ in any of the videos. These are the
 Therefore, in this section, we will teach you:
 1. [Merging Branches](01_merging_branches.md)
 2. [Resolving Merge Conflicts](02_merge_conflicts.md)
-3. [Pushing and Pulling from Remote](03_push_and_pull.md)
-4. [Best practices](04_keeping_linear_history.md): Keeping a Linear Commit History
+3. Best practices: [Keeping a Linear Commit History](03_keeping_linear_history.md)
+4. Best practices: [Branch workflow](04_branch_workflow.md)
