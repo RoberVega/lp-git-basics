@@ -45,7 +45,7 @@ This categorization aids in providing clarity and ensuring that the commit histo
 
 #### 6. Update Commit Messages Properly:
 
-Utilize Git's `git commit --amend` option to update a commit message, maintaining a tidy and organized commit history.
+Utilize Git's `git commit --amend -m 'message'` option to update a commit message, maintaining a tidy and organized commit history.
 
 ### Video summaries
 
