@@ -2,13 +2,15 @@
 
 Welcome to the Git Basics Learning Path 🎉
 
-<img src="images/logo.png" alt="" width="auto" height="auto">
 
 Git is a version control system that allows developers to track changes in their code and collaborate with others efficiently. It provides a detailed history of modifications, facilitating smooth reversions and merging of code branches.
 
 ## Assignments
 
 Assignments are located in the [assignments](https://github.com/DareData/lp-git-basics-assignment) folder together with the instructions on how to start.
+
+
+hello guys!
 
 ## Suggested learning calendar
 
