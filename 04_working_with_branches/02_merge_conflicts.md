@@ -43,3 +43,6 @@ VSCode offers an amazing interface to resolve conflicts. It makes the process so
 <img src="../images/HosPml1qkrghd.jpg" alt="" width="300" height="auto">
 
 [Link to video](https://www.youtube.com/watch?v=HosPml1qkrg)
+
+
+This should create a merge conflict.
