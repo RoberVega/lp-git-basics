@@ -27,7 +27,7 @@ Creating a merge commit is a straightforward process in Git, usually accomplishe
 - `git merge --squash <branch>` : Combine all changes into a single commit without creating a merge commit.
 - `git merge --abort` : If there are merge conflicts, you can abort the merge to reset your branch to the state before the merge attempt.
 
-You will learn much more about squashing on the [best practises section](04_keeping_linear_history.md).
+You will learn much more about squashing on the [best practises section](03_keeping_linear_history.md).
 
 In the following video you will understand what a fast-forward merge and what the `--no-ff` flag does.
 
