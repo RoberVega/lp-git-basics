@@ -22,15 +22,11 @@ Use rebase to integrate changes from one branch into another, rather than creati
 
 ### Interactive Rebase:
 
-Use interactive rebase to tidy up your commits and modify history, making the project's evolution more transparent.
+Interactive rebase is a powerful tool for refining your project's commit history. It allows you to edit, rearrange, combine (`squash`), or remove commits in a way that can make the history clearer and more useful. In particular, squashing is a specific use of interactive rebase to combine multiple commits into a single commit. This can make your history neater and more intelligible, especially when merging feature branches into the main branch.
 
 - `git rebase -i <commit-hash>`
-
-### Squash Commits:
-
-Combine several commit messages into one, providing a clean, understandable history.
-
 - `git rebase -i HEAD~<number-of-commits>`
+- `git rebase -i HEAD~<commit-hash>`
 
 
 ### Force Push Carefully:
