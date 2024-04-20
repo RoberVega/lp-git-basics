@@ -45,6 +45,8 @@ When applying stashed changes to a different commit or branch, conflicts may ari
 - **Mark as Resolved**: After resolving the conflicts in each file, use `git add <resolved-file>` to stage the resolved files, signaling to Git that the conflicts have been addressed.
 - **Complete the Stash Application**: If you used `git stash pop` and encountered conflicts, after resolving them, you need to complete the operation manually. If you were simply applying a stash, you can continue working or commit the changes as needed.
 
+In a future section we will learn how to [solve these conflitcts](../04_working_with_branches/02_merge_conflicts.md).
+
 ### Best Practices for Using `git stash`
 
 To minimize the potential for conflicts and to maximize the effectiveness of using `git stash`, consider the following best practices:
