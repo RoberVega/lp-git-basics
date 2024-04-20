@@ -9,4 +9,6 @@ Therefore, in this section, we will teach you:
 1. How to [add/remove files](01_adding_files.md) to/from your snapshot batch.
 2. How to [take snapshots](02_committing_changes.md).
 3. [Viewing the history](03_viewing_logs.md) of snapshots.
-4. [Best practises](04_writing_good_commit_messages.md) for when to take snapshots and how to write good messages. 
+4. [Best practises](04_writing_good_commit_messages.md) for when to take snapshots and how to write good messages.
+5. [Best practices](05_git_stash.md): using `git stash` to avoid committing files before necessary.
+6. [Best practises](06_pre-commit.md): using pre-commit to ensure code quality before commiting.
