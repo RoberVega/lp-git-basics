@@ -8,5 +8,5 @@ In this section, we will ensure that you're equipped with the right tools and pr
 2. Crafting and reviewing [pull requests](02_pull_requests.md).
 3. Writing meaningful [code reviews](03_writing_good_code_reviews.md).
 4. The strategy of [forking repositories](04_forking_repos.md), allowing you to contribute to projects without the need for direct permission.
-5. [Managing collaborators and permissions](05_managing_collaborators_and_permissions.md), because a well-managed team is a productive one.
+
 
