@@ -32,34 +32,15 @@ Effective team management goes beyond just adding users. It involves:
 
 ## Automating Permissions with Teams 👥👥👥
 
-In large-scale projects or organizations, the manual management of individual user permissions can quickly become a daunting task. Automating these permissions through the use of teams and bots not only streamlines the process but also ensures consistency and security across your development workflows.
+In large-scale projects or organizations, the manual management of individual user permissions can quickly become a daunting task. Automating these permissions through the use of teams not only streamlines the process but also ensures consistency and security across your development workflows.
 
-### Leveraging Teams for Group Permissions
-
-**Benefits of Using Teams:**
 - **Scalability**: Managing permissions at the team level is more scalable than individual user permissions, especially as the organization grows.
 - **Ease of Management**: Updates to team permissions apply to all members, simplifying the administration of access rights.
 - **Reduced Errors**: Group management decreases the likelihood of accidentally granting incorrect permissions to individuals.
 
-**Steps to Create and Manage Teams:**
+So, how can we manage these teams?
+
 1. **Create a Team**: In your GitHub organization, go to the "Teams" tab and click "New team". Name the team and provide a description.
 2. **Add Members**: Invite members to join the team by searching for their usernames or email addresses.
 3. **Set Team Permissions**: Define what repositories the team can access and the level of permissions (e.g., read, write, maintain, admin) they should have.
-
-### Assigning Teams to Repositories
-
-Assigning entire teams to specific repositories rather than individual users helps maintain clearer lines of responsibility and simplifies permission audits.
-
-**How to Assign Teams:**
-1. **Navigate to the Repository Settings**: Select the repository you want to manage.
-2. **Access the 'Manage Access' Section**: Click on “Settings” and then “Manage access.”
-3. **Add the Team**: Click on "Invite a team" and select the team from your organization. Assign the appropriate role (e.g., Read, Write, Admin).
-
-
-
-
-
-
-
-
 

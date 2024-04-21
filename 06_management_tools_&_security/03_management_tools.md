@@ -1,20 +1,35 @@
 # Managing Projects and Tracking Issues with GitHub and GitLab 📊
 
-Explore the robust features of GitHub Projects and GitLab's Issue Tracking and Boards to manage your projects and track issues seamlessly. These tools help organize tasks, collaborate more efficiently, and keep your projects on track through visual management and automation.
+GitHub Projects and GitLab's Issue Tracking and Boards are embedded tools that can help you manage your projects. These tools help organize tasks, collaborate more efficiently, and keep your projects on track, although compare to other providers, they are famously limited. It all depends on the scope of your project and the size of your organization.
 
-## GitHub Projects: Organizing with Kanban Boards
+## GitHub Projects
 
-GitHub Projects provides a flexible Kanban interface to manage your workflows and collaborate on tasks with your team. Understand how to leverage Projects to categorize work into customizable columns, automate card movements, and integrate directly with issues and pull requests.
+GitHub Projects provides a highly flexible interface designed to manage workflows, track tasks, and foster collaboration within teams. By utilizing GitHub Projects, you can effectively categorize work, automate processes, and directly integrate with GitHub's Issues and Pull Requests.
 
-- **Creating a Project Board**: Easily set up a new project board from your repository, organization, or user profile to categorize and track tasks.
-- **Columns and Cards**: Organize tasks into columns like "Todo", "In Progress", and "Done". Drag and drop cards as tasks progress through stages.
-- **Automations**: Automate card movements based on triggers such as pull request merges or issue closures.
+- **Creating a Project Board**: Set up a new project board directly from your repository, organization, or user profile. This feature allows you to organize and monitor tasks efficiently, giving you visibility over the project's entire lifecycle.
+- **Columns and Cards**: Utilize customizable columns like "Todo", "In Progress", and "Done" to structure your workflow. You can drag and drop cards through these columns as tasks evolve from initiation to completion, offering a clear visual progression of each task.
+- **Automations**: Streamline your workflow by setting up automations that trigger card movements when certain events occur, such as merging a pull request or closing an issue. This reduces manual oversight and ensures that project status is updated in real time.
 
-Example of using a Project Board:
+
+GitHub's Issues are integral to managing and tracking individual tasks within a project. They provide a way to discuss and resolve project-related problems, making them essential for detailed task management:
+
+- **Integration with Project Boards**: Link issues directly to specific cards on your project board for a seamless transition from task creation to completion. This integration helps in tracking the progress of issues without switching contexts.
+- **Using Labels and Milestones**: Organize issues using labels to categorize them by priority, type, or any other classification that suits your workflow. Additionally, milestones can be used to group issues under specific targets or phases of the project.
+- **Assignment and Notifications**: Assign issues to specific team members and configure notifications to keep everyone informed about changes and updates. This ensures that team members are always aware of their responsibilities and the current status of tasks.
+
+Example of using a Project Board with GitHub Issues:
 
 1. Navigate to the "Projects" tab in your GitHub repository.
-2. Click "New project", select a template or create a custom board.
-3. Add columns and cards, and link them directly to issues and pull requests for unified management.
+2. Click "New project", choose a template, or start with a custom board.
+3. Add columns like "Todo", "In Review", and "Done", and populate them with cards linked to issues or pull requests.
+4. Set up automations to move cards as issues are opened, updated, or closed, ensuring that the board reflects the real-time status of the project.
+
+This enhanced management capability in GitHub Projects, combined with the detailed tracking provided by GitHub Issues, creates a robust environment for managing both small and large-scale projects efficiently.
+
+<img src="../images/YVFa5VljCDYhd.jpg" alt="" width="300" height="auto">
+
+[Link to video](https://www.youtube.com/watch?v=YVFa5VljCDY)
+
 
 ## GitLab Issue Tracking and Boards: Enhanced Project Visibility
 
@@ -29,13 +44,6 @@ Setting up a GitLab Board:
 1. From your GitLab project, go to the "Issues" then "Boards".
 2. Create a new board and configure it with lists based on issue labels or milestones.
 3. Drag and drop issues between lists to reflect their current status and manage the workflow dynamically.
-
-### Integration and Automation
-
-Both platforms offer powerful integration and automation options to streamline project management:
-
-- **GitHub Actions for Project Management**: Automate issue assignments, labeling, and moving cards on project boards using GitHub Actions.
-- **GitLab Automation**: Use GitLab's automation tools to automatically assign labels, move issues across boards based on merge requests, or trigger specific actions on issue updates.
 
 ### Insights and Reporting
 
